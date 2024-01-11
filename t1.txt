@@ -1,2 +1,2 @@
 This is a test file
-in master changed by f1 
+in master changed by master
